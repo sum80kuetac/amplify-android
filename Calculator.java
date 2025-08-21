@@ -6,4 +6,5 @@ public class Calculator {
         if (b == 0) throw new IllegalArgumentException("b must not be zero");
         return (double) a / b;
     }
+    //hi from feature
 }
